@@ -1,0 +1,15 @@
+body{
+    margin: 0;
+    /* Placeholder gradient */
+    background: radial-gradient(circle, #ff007f, #7f00ff, #00ffff);
+}
+
+#header{
+    display: flex;
+    background-color: darkslategray;
+    font-family: Arial, sans-serif;
+    color: white;
+    width: 100%;
+    padding: 2vh;
+    align-items: center;
+}
